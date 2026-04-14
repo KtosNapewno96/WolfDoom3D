@@ -2,7 +2,7 @@
 
 **WolfDoom3D** is a high-performance 3D engine built entirely from the ground up in Python. It serves as a technical demonstration of how high-level languages can achieve near-native performance through hardware acceleration, binary compilation, and optimized memory management.
 
-![doom](0.png)
+![doom](0.jpg)
 ![doom](2.png)
 
 ---
