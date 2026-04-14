@@ -43,7 +43,7 @@ WD3D features a sophisticated time-management system to enhance player immersion
 This project is powered by the following libraries and technologies:
 - \*\*[pygame-ce-pypi](https://pypi.org/project/pygame-ce/)
 - \*\*[pygame-ce-website](https://pyga.me/)
-- \*\*[pygame-ce-img](pygame-ce.png)
+![pygame-ce](pygame-ce.png)
 - **Tkinter** – Handling system-level dialogs and emergency alert windows.
 - **threading** – Powering the **DoomGuard** sentinel in a dedicated background thread for 24/7 monitoring.
 - **math** – Advanced 3D raycasting, trigonometry, and complex engine calculations.
