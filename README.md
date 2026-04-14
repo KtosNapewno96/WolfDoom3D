@@ -41,8 +41,6 @@ WD3D features a sophisticated time-management system to enhance player immersion
 ### 4. Built With
 
 This project is powered by the following libraries and technologies:
-
-- **[pygame-ce](https://pygam-ce.org)** – The core game engine (Community Edition for superior performance and features).
 - \*\*[pygame-ce-pypi](https://pypi.org/project/pygame-ce/)
 - \*\*[pygame-ce-website](https://pyga.me/)
 - \*\*[pygame-ce-img](pygame-ce.png)
