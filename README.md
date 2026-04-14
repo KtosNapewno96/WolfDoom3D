@@ -2,8 +2,8 @@
 
 **WolfDoom3D** is a high-performance 3D engine built entirely from the ground up in Python. It serves as a technical demonstration of how high-level languages can achieve near-native performance through hardware acceleration, binary compilation, and optimized memory management.
 
-![doom](screenshots/0.png)
-![doom](screenshots/2.png)
+![doom](0.png)
+![doom](2.png)
 
 ---
 
@@ -27,7 +27,7 @@ The Moving Target: Your stats change their location in RAM every single frame. G
 The Sentinel: Active monitoring of your OS. If we see a debugger, you see the Red Screen of Death.
 No Guard, No Game: If the .pyd is missing, the game won't even say hello.
 
-![DoomGuard™](screenshots/1.png)
+![DoomGuard™](1.png)
 
 ### 3. Kinetic Feedback & Chronos Management
 
