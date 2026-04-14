@@ -5,7 +5,7 @@ import sys
 def run_updater():
     # Pobieramy ścieżkę do folderu, w którym jest nasza gra
     base_path = os.path.dirname(sys.executable if getattr(sys, 'frozen', False) else __file__)
-    updater_path = os.path.join(base_path, "updater.py")
+    updater_path = os.path.join(base_path, "updater.exe")
 
     if os.path.exists(updater_path):
         try:
