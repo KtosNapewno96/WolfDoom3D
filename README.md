@@ -4,6 +4,10 @@
 
 ![doom](0.jpg)
 ![doom](2.png)
+![doom](3.png)
+![doom](4.png)
+![THE END](the_end.png)
+![doom](5.png)
 
 ---
 
