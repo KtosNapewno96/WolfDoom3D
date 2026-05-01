@@ -1,3 +1,4 @@
+(project closed)
 # 🔫 WolfDoom3D (WD3D) | Raycasting Hybrid Rendering 3D Game
 
 **WolfDoom3D** is a high-performance 3D engine built entirely from the ground up in Python. It serves as a technical demonstration of how high-level languages can achieve near-native performance through hardware acceleration, binary compilation, and optimized memory management.
